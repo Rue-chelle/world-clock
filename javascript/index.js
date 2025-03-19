@@ -1,5 +1,5 @@
 function updateTime() {
-  // harare
+  // Bulawayo
   let harareElement = document.querySelector("#harare");
   if (harareElement) {
     let harareDateElement = harareElement.querySelector(".date");
